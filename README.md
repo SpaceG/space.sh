@@ -23,3 +23,13 @@ open vnc://yourip.yourhost/
 touch  ${USER_NAME}.txt
 
 </pre>
+
+
+
+![Alt text](https://raw.githubusercontent.com/SpaceG/space.sh/master/img/ezgif.com-video-to-gif_4.gif "space.sh")
+
+
+![Alt text](https://raw.githubusercontent.com/SpaceG/space.sh/master/img/ezgif.com-video-to-gif_5.gif "space.sh")
+
+
+![Alt text](https://raw.githubusercontent.com/SpaceG/space.sh/master/img/ezgif.com-video-to-gif_6.gif "space.sh")
