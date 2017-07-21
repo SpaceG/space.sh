@@ -11,6 +11,9 @@ it will open a window to put the data in from your another computer.
 name and password. 
 
 
+![Alt text](https://raw.githubusercontent.com/SpaceG/space.sh/master/img/ezgif.com-video-to-gif_4.gif "space.sh")
+
+
 <pre>
 	
 #!/bin/sh
@@ -23,10 +26,6 @@ open vnc://yourip.yourhost/
 touch  ${USER_NAME}.txt
 
 </pre>
-
-
-
-![Alt text](https://raw.githubusercontent.com/SpaceG/space.sh/master/img/ezgif.com-video-to-gif_4.gif "space.sh")
 
 
 ![Alt text](https://raw.githubusercontent.com/SpaceG/space.sh/master/img/ezgif.com-video-to-gif_5.gif "space.sh")
