@@ -2,6 +2,15 @@
 vnc shell script to open another screen on your current device
 
 
+run in to your Terminal, Open a New Terminal Window. Then Type 
+
+
+<code>./space.sh</code>
+
+it will open a window to put the data in from your another computer.
+name and password. 
+
+
 <pre>
 	
 #!/bin/sh
@@ -12,5 +21,5 @@ echo "I will open your device now ${USER_NAME}.txt and print out your file"
 #write here your connections down with the ip of your computer which do you want to connect.
 open vnc://yourip.yourhost/
 touch  ${USER_NAME}.txt
-	
+
 </pre>
