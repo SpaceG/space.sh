@@ -1,8 +1,6 @@
 # space.sh
-vnc shell script to open another screen on your current device
-
-
-run in to your Terminal, Open a New Terminal Window. Then Type 
+vnc shell script to open another screen on your current device.
+run in to your Terminal, Open a New Terminal Window. Then Type : The Commandline
 
 
 <code>./space.sh</code>
